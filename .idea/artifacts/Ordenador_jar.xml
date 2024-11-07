@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Ordenador:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Ordenador_jar</output-path>
+    <root id="archive" name="Ordenador.jar">
+      <element id="module-output" name="Ordenador" />
+    </root>
+  </artifact>
+</component>
